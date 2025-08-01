@@ -1,13 +1,13 @@
-[![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.n>
+[![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/)
 
 # namefetch
 > Вдохновлено [fortfetch](https://github.com/progzone122/fortfetch)
 
 ![image](https://github.com/OverLessArtem/namefetch/blob/main/image.png?raw=true)
 
-namefetch — это утилита, новая версия fortfetch, которая показывает настоящее имя вашего устройств>
+namefetch — это утилита, новая версия fortfetch, которая показывает настоящее имя вашего устройства.
 
-namefetch — это современная утилита, которая отображает ваше имя на языке Linux, а также множество>
+namefetch — это современная утилита, которая отображает ваше имя на языке Linux, а также множество конфиденциальной информации, и не только!!
 
 ## Почему namefetch?
 - написан на Rust, что уже лучше, чем ваши устаревшие C;
