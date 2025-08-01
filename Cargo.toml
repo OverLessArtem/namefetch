@@ -1,0 +1,17 @@
+[package]
+name = "namefetch"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+sys-info = "0.9.1"
+
+[workspace.package.release]
+opt-level = "z"
+lto = "fat"
+debug = false
+codegen-units = 1
+panic = 'abort'
+strip = true
+debug-assertions = false
+overflow-checks = false
